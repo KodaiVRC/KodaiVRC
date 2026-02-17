@@ -11,21 +11,16 @@ AI SYSTEMS :: GAME DEVELOPER :: ARCHITECT
 // SIGNAL DISTORTION MINIMAL...
 // CONNECTION COMPLETE...
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-┌──────────────────────────────────────────────────────────────────────────┐
-│ SUMMARY  FIXED  BOOT  SEQ  SYS  OVERRIDE+                                                                                │
-├──────────────────────────────────────────────────────────────────────────┤
-│ USER        : KODAI                                                                                                                                    │
-│ CLASS       : GAME DEVELOPER                                                                                                              │
-│ EXPERI      : C# / C++ / U# / PYTHON                                                                                                    │
-│ DOMAIN      : COMPLEX INTERACTIVE FOUNDER                                                                              │
-│ ENGINE      : UNITY / VRCHAT SDK / UDONSHARP                                                                             │
-│ ACCESS      : ROOT                                                                                                                                   │
-│ STATUS      : STABLE                                                                                                                                 │
-└──────────────────────────────────────────────────────────────────────────┘
-
+| USER   : KODAI
+| CLASS  : GAME DEVELOPER
+| EXPERI : C# / C++ / U# / PYTHON
+| DOMAIN : COMPLEX INTERACTIVE FOUNDER
+| ENGINE : UNITY / VRCHAT SDK / UDONSHARP
+| ACCESS : ROOT 
+| STATUS : STABLE 
+──────────────────────────────────────────────────────────────────────────
 BOOT SEQUENCE
-────────────────────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────
 > mounting persistence layer...
 > loading HUD framework...
 > injecting badge architecture...
