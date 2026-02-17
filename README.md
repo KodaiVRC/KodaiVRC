@@ -45,9 +45,13 @@ deployment successful.
 
 KODAI // SYSTEMS FIRST. SCALE ALWAYS.
 </pre>
+
 <div align="center">
 
-<img width="48%" src="https://streak-stats.demolab.com?user=KODAIVRC&theme=tokyonight&hide_border=true&background=000000" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KODAIVRC&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 
 </div>
+
+
+
 
